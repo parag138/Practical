@@ -1,0 +1,4 @@
+#Tue Nov 14 21:44:41 IST 2017
+base.0=C\:\\Users\\Tushar\\AndroidStudioProjects\\ExplicitIntents\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\45
+renamed.0=classes.dex
+file.0=C\:\\Users\\Tushar\\AndroidStudioProjects\\ExplicitIntents\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\45\\classes.dex

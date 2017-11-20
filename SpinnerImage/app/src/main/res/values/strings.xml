@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpinnerImage</string>
+    <string-array name="Images">
+        <item name="Charmander">Charmander</item>
+        <item name="Squirtle">Squirtle</item>
+        <item name="Pikachu">Pikachu</item>
+    </string-array>
+</resources>
